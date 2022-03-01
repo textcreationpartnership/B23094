@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Melancholys bane: or, Choice, pleasant, and profitable recreations Gathered out of many most famous and industrious searchers of art and natures secrets. By Edward Fountaine, an expert artist, living upon London-bridge, next door to the Angel.</title>
+            <author>Fountaine, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23094</idno>
+            <idno type="STC">Wing F1648C</idno>
+            <idno type="EEBO-CITATION">99827065</idno>
+            <idno type="PROQUEST">99827065</idno>
+            <idno type="VID">207487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1885:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Melancholys bane: or, Choice, pleasant, and profitable recreations Gathered out of many most famous and industrious searchers of art and natures secrets. By Edward Fountaine, an expert artist, living upon London-bridge, next door to the Angel.</title>
+                  <author>Fountaine, Edward.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[for the author],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"For the author" from Wing.</note>
+                  <note>Consists of 8 unsigned leaves.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alchemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207487:1"/>
+            <p>MELANCHOLY'S BANE: <hi>OR,</hi> Choice, Pleaſant, and Profitable RECREATIONS. Gathered out of many moſt famous and induſtrious ſearchers of Art and Natures Secrets.</p>
+            <p>
+               <hi>BY</hi> EDWARD FOUNTAINE, an expert Artiſt, Living upon <hi>London-bridge,</hi> next door to the Angel.</p>
+            <q>
+               <l>I've often heard, a Bow ſtill bent, grows weak:</l>
+               <l>And too much worldly cares the heart may break.</l>
+               <l>Pleaſure with profit, any one can brook:</l>
+               <l>And you may finde both, in this little book.</l>
+               <l>If that it may your kind acceptance find,</l>
+               <l>Theſe harmleſs lines will recreate your mind.</l>
+            </q>
+            <p>Printed at London 1654.</p>
+            <pb facs="tcp:207487:2"/>
+            <pb facs="tcp:207487:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207487:3"/>
+            <head>1. <hi>How to make haire to grow.</hi>
+            </head>
+            <p>Take halfe a pound of <hi>Aqua Melles,</hi> in the ſpring time of the yeare, warm a little of it every morning when you riſe in a ſauſer or ſuch a thing; and tye a little ſpunge to a fine Box Combe, and dip it in the ſaid water; and therewith moiſten the very roots of your hair in combing it, and it will help it to grow long, thick and curled in a very ſhort ſpace.</p>
+            <p>
+               <hi>How to write letters of ſecrets ſeverall ways that can be read by none without this inſtruction following.</hi>
+            </p>
+            <p>Take fine allom, beat it ſmall, and put a reaſon<g ref="char:EOLhyphen"/>able quantity of it into a little water, then write with the ſaid water, the which writing cannot be read, but by ſteeping your paper afterwards in faire water.</p>
+            <p>You may likewiſe write with Vinegar or Joyce of a Lemon, or of an Onyon; then when you would read the ſame, you muſt heat your paper a<g ref="char:EOLhyphen"/>gainſt the fire.</p>
+            <p>Moreover, if you, will anoynt a piece of paper with Candle-greace, and lay it upon an other white Paper, then wright thereon, next open your Paper aſunder, &amp; ſtrew a little Powder upon your Paper, and whatſoever colour your Pouder be of, your writing wil appear of the ſame colour.</p>
+            <p>
+               <hi>How to make Haire of any colour to become black.</hi>
+            </p>
+            <p>Take a little Aqua fortis, put therein a groat or ſix pence, according to the quantity of the foreſaid water, then ſet both to diſſolve before the fire. Laſt<g ref="char:EOLhyphen"/>ly, dip a little ſpung in the ſaid water, &amp; wet your beard or haire therewith, but touch not the skin.</p>
+            <pb facs="tcp:207487:3" rendition="simple:additions"/>
+            <p>
+               <hi>How to make a Candle burn in water, and endure a long time.</hi>
+            </p>
+            <p>Take a Candle and ſtick at the bottom of it as much Lead as will make it ſtand upright in a pale of water and not ſink, and the ſaid candle wil en<g ref="char:EOLhyphen"/>dure burning therein a wonderfull long time.</p>
+            <p>
+               <hi>How to take out ſpots of Oyle or Greace.</hi>
+            </p>
+            <p>Take the Bones of Sheeps feet, burnt hem al<g ref="char:EOLhyphen"/>moſt to aſhes, then bruiſe them to Powder, and put of it upon your ſpots, and lay all before the Sunne when it ſhines hotteſt; when the Powder be<g ref="char:EOLhyphen"/>comes black lay on freſh in the place till it ſuck out the ſpots, which is done in very ſhort time:</p>
+            <p>
+               <hi>How to keep Meat freſh and ſweet a long time with<g ref="char:EOLhyphen"/>out Salt.</hi>
+            </p>
+            <p>Put your Meat in Flower, Meale, or Bran, and therein it will keep freſh and ſweet along time, or elſe caſt beaten Coriander ſeed and Vinegar on it, and it will do the ſame.</p>
+            <p>
+               <hi>How to make a Powder that will make good Inke in an inſtant.</hi>
+            </p>
+            <p>Take Gall and Coperas, as much of the one as of the other; beat this into Powder, mingle it, and put it into a little water, and on the preſent it wil be very good Inke. Likewiſe if you ſtrew of the ſame Powder upon white paper and write thereon with a little faire water, the letters will appear preſently black.</p>
+            <p>
+               <hi>An experienced conceit, how to make Hens lay Eggs all Winter thorow.</hi>
+            </p>
+            <p>Take the tops of the Nettles, when they begin to come unto ſeed, and dry them: which ſo dryed, give a little of the ſame, with Bran and Hempſeed mingled together, to your Hens, and they ſhall
+<pb facs="tcp:207487:4"/>every day after lay you an Egge a piece.</p>
+            <p>
+               <hi>To make fleſh ſeem to crawle full of Wormes.</hi>
+            </p>
+            <p>And to doe this, take Harp-ſtrings, and cut them into very ſhort pieces, which ſtrew upon meat, being taken hot out of the Pot, and thoſe pieces will then move and ſtir about, like unto living wormes.</p>
+            <p>
+               <hi>How to make Roots to have what proper forme you will on them.</hi>
+            </p>
+            <p>To doe this, take ſuch green Roots which be big, like as be the Briony-roots, Radiſh-roots, and Rape or Navew-roots, and of any of theſe Roots carve and cut as you liſt, and after put the ſame into the Earth, letting it there ſo long re<g ref="char:EOLhyphen"/>main, until the ſame carving be covered with a skin. And on ſuch wiſe may you make the coun<g ref="char:EOLhyphen"/>terfeit Mandrakes, in faſhioning in the Briony<g ref="char:EOLhyphen"/>root, as both <hi>Mattheolus</hi> and <hi>Cardane</hi> doe write, the forme of a man with a Pen-knife; and ſetting the ſame Root againe into the Earth, with the head of the Root turned downward, and a little Barley put under it, which after will cleare and hang faſt into the head of the Root, and appear like unto the hair growing out of the ſame.</p>
+            <p>
+               <hi>To write what you liſt on a Steel Dagger or Knife.</hi>
+            </p>
+            <p>To doe this, take an Ounce of Salt-peter, and an Ounce of green Copperas: beat theſe groſly together, and after put the ſame into a ſtrong bot<g ref="char:EOLhyphen"/>tle of glaſſe, diſtilling a water of it; which water uſe on this wiſe: Firſt, take yellow or red Wax, ſtretching the ſame upon the Dagger or Knife, ſo far as you will draw or write thereupon, unto the thickneſſe of a paper leaſe, and ſomewhat more; after, draw or write therein what you
+<pb facs="tcp:207487:4"/>liſt, drawing or writing unto the Steel; and then fill that hollow drawing or holes with the diſtil<g ref="char:EOLhyphen"/>led water, which within a day and a night will have eaten it ſufficiently. And the like may you draw and doe on any other piece of Steel.</p>
+            <p>
+               <hi>How to make a hollow Ring to dance by it ſelfe, a pro<g ref="char:EOLhyphen"/>per ſecret.</hi>
+            </p>
+            <p>To doe this, take a Ring round about hollow, into which put Quick-ſilver, and ſtop the ſame faſt that it run not forth. After heat the Ring ſomewhat in the fire, or let it lye neer unto the fire, and being hot, lay the ſame on a Table or Stool, which by and by after will begin to dance of it ſelfe, until it be cold againe.</p>
+            <p>
+               <hi>How to make an Apple to move on the Table: a pro<g ref="char:EOLhyphen"/>per ſecret.</hi>
+            </p>
+            <p>To doe this, take an Apple, and cut the ſame in the midſt; and in the one halfe make a round hole, putting therein a black Beetle, and ſo lay the halfe on the Table, and it will then move.</p>
+            <p>
+               <hi>How to eut an Apple into many pieces without har<g ref="char:EOLhyphen"/>ming of the skin or paring.</hi>
+            </p>
+            <p>To doe this, take a moſt fine Needle with a ſmal thred, and thruſt the ſame by little and lit<g ref="char:EOLhyphen"/>tle under the paring, and thruſt it in againe right againſt the place, until you have ſo gone round about the outſide of the Apple. And this alſo remember, that you thruſt the Needle thorow the paring at ſtrait corners one againſt the other of the Apple; and this ſo often doe, until you come again unto the firſt place where you began.</p>
+            <p>And if ſo be you would divide the ſame in ſix or eight pieces, then draw the thred again by a like diſtance, alwayes taking heed to divide the
+<pb facs="tcp:207487:5"/>Apple under the skin. And when you have thus done with the Apple, and the pieces yet covered with the skin, then draw out the ends of the thred and you ſhall after divide the Apple within, without harming of the paring or skin, into ſo many pieces as you liſt. And when you have thus drawn out, and taken the thred quite away, you may keep the Apple ſo long as you think re<g ref="char:EOLhyphen"/>quiſite.</p>
+            <p>
+               <hi>A Pretty conceit, how to catch Fowle without a Net.</hi>
+            </p>
+            <p>To doe this, take Arſenick, putting the ſame in water, and in that water boil Wheat, or any other grain, and caſt the ſame forth unto Fowls: and ſo many as eat thereof, will not be able af<g ref="char:EOLhyphen"/>terward to flie away. And take the juyce of Ge<g ref="char:EOLhyphen"/>lidone, and infuſe Wheat in the ſame, letting it remain there for three dayes: after, give the ſame to Fowls to eat; and ſuch as eat thereof, you may after take with the hand. Alſo, take Wheat putting it in Wine-lees, and let the ſame remain there eight dayes: after that, put it into the juyce of Celandine and Horehound, to ſteep; which ſo done, then give of the ſame unto the Fowls to eat; and ſuch as eat thereof, cannot flie away.</p>
+            <p>
+               <hi>How to make a blown Bladder to dance and skip about from place to place.</hi>
+            </p>
+            <p>To doe this, take Quickſilver in a Bladder, and lay the the Bladder in a hot place, and it will af<g ref="char:EOLhyphen"/>ter skip from place to place, without handling.</p>
+            <p>
+               <hi>An excellent concluſion, how to put an Apple into a Viol.</hi>
+            </p>
+            <p>Hang the Vial on the twig of an Apple tree, and put a young Apple in the mouth of the Vial, and it will grow therein. And ſo ye may doe with Grapes, or other fruit.</p>
+            <pb facs="tcp:207487:5"/>
+            <p>
+               <hi>To make fiſh or fleſh ſeem raw.</hi>
+            </p>
+            <p>Take the bloud of a Goat, or of a Kid, and dry it, and keep it from the air, then caſt on Fiſh or Fleſh that is hot, and it will ſeem raw.</p>
+            <p>
+               <hi>A new Receit for a Cook, how with one Spit, and with one fire, to keep one Capon raw, the ſecond to boil; and the third to roſte.</hi>
+            </p>
+            <p>Provide a long Spit, and put thereon three Ca<g ref="char:EOLhyphen"/>pons, Chickens, Pidgeons, or what you pleaſe, (onely three:) then make a long fire, and lay them thereto, and let one turn the Spit: Then, on that you would keep raw, pour continually cold water; and on that you would boil, pour ſcalding liquor; and that which you would de<g ref="char:EOLhyphen"/>ſire to roſte, baſte it with Butter, and ſo bread it.</p>
+            <p>
+               <hi>A very uſeful ſecret for the making of divers Inks.</hi>
+            </p>
+            <p n="1">1. <hi>Golden Inke.</hi> Take Chryſtal beaten, and temper it with the white of an Egge, and write, and when it is drye, rub it over with a gold Ring.</p>
+            <p n="2">2. <hi>Silver Inke.</hi> Take Black-lead, temper it with Gum-water, and write upon the black paper; and when it is drie, wipe it with linnen cloath, and it wil ſhine like ſilver.</p>
+            <p n="3">3. <hi>Yellow Inke.</hi> Take Saffron, and Argil, and temper them with Gum-water, and it wil appeare a perfect yellow.</p>
+            <p n="4">4. <hi>Green Inke.</hi> Take Verdigreaſe &amp; Argil, grinde them together on a Marble ſtone with a Moller: then temper it, &amp; it wil be a perfect green colour.</p>
+            <p>
+               <hi>How to make a ſportive Concluſion with a Cat, by putting her into a ſmall waſhing-bowle in a Pond, Thames, or other River.</hi>
+            </p>
+            <p>Bring forth a ſmall Waſhing-bowl, and put therein a Cat: then ſhove the Bowle and Cat in<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:207487:6"/>a great Pond, the Thames, or other River, (in a calm.) When you have ſo done, manage your Spaniels or other Dogs that will take the water, or be apt to bait a Cat, and you ſhall have dain<g ref="char:EOLhyphen"/>ty ſport: for the Dogs with their feet will turne the bottome of the Bowl upwards; the Cat be<g ref="char:EOLhyphen"/>ing in the water, will ſtill flee to her little Pin<g ref="char:EOLhyphen"/>nace ſhe firſt boarded, namely, the Waſhing-bowl; betwixt which will appear a terrible Sea-ſight in freſh water.</p>
+            <p>
+               <hi>How you may ſerve a Tapſter ſuch a trick, that he ſhall not be able to froth his Cans or Jugs.</hi>
+            </p>
+            <p>Provide but in readineſſe the skin of a Red Herring, and at ſome time or other when the Tapſter is abſent, doe but rub a little on the in<g ref="char:EOLhyphen"/>ſide of his Pots, Cans, or Jugs, and he ſhall not in any wiſe be able to froth them for a long time after, although he would. This is a conceit to cozen the Tapſter when he would cozen you.</p>
+            <p>
+               <hi>How to take Crowes, Kites, Magpies, or Iackdaws, alive.</hi>
+            </p>
+            <p>Take any piece of raw Fleſh, or Liver of a Beaſt and ſlice it into ſmall morſels, that they may ſwallow it: then take the powder or ſlices of <hi>Nux Vomica,</hi> and (making holes in the fleſh) put it in<g ref="char:EOLhyphen"/>to the ſame, and lay it where they haunt; and preſently after they have eaten of it, they will take to a Tree as ſoon as they can, ſuddenly totter and fall down; where you may with hands eaſily take them: but they wil quickly recover againe.</p>
+            <p>
+               <hi>How to finde cut a deluſion of the Vintners, in mixing Water with their Clarets and Whites, or Honey with their other ſweet Wines.</hi>
+            </p>
+            <p>If you ſuſpect your French Wines (as Clarets or Whites) to be mingled with water, (which
+<pb facs="tcp:207487:6"/>you may partly perceive by the thinneſſe about the verge or brink of the glaſſe;) the beſt way to finde out the deluſion thereof, is, to put a Pear pared into the glaſſe; and if it doth ſwim aloft upon the Wine, it is a pregnant evidence that the Wine is perfect, and unmingled: but if it ſink to the bottome, then of a certain water is ming<g ref="char:EOLhyphen"/>led therewith.</p>
+            <p>If you likewiſe have any ſuſpition of your ſweet Wines, (as Canaries, Maligoes, &amp;c.) that they ſhould be mingled with Honey; you may finde out the trick in this manner: Take a few drops of the Wine, and pour them on in a hot place of Iron, and the Wine will ſoon diſſolve, but the Honey remain and thicken.</p>
+            <p>
+               <hi>How to make a moſt excellent Water, which I al<g ref="char:EOLhyphen"/>wayes uſe to faſten Teeth that are looſe, to cleare the Gums from putrifaction; to cauſe them to grow if need require; to ſweeten the breath, and finally to divert away the Rheume from that place, it be<g ref="char:EOLhyphen"/>ing very aſtringent, and cleanſing.</hi>
+            </p>
+            <p>Take two ounces of good White-wine vineger, ſour ounces of Roſemary flower water, Myrrh, Maſtick, bole Armenick, fine Dragons blood in leafe, of each an ounce; Roch-Allum burnt, and fine beaten Cinamon, of each half an ounce; a pint of fair water, and half a pound of good ho<g ref="char:EOLhyphen"/>ney, with a little Benjamin; mingle all theſe to<g ref="char:EOLhyphen"/>gether, and put it to boil for a quarter of an hour, skimming it well, then take it off, let it cool, and ſet it up in a Viol for your uſe: gargle your mouth well with a little thereof every morning, and before and after meals: I cannot extol this
+<pb facs="tcp:207487:7"/>ſecret too much, having experimented it with good ſucceſſe to many people of equality, within this City of <hi>London,</hi> as I can juſtifie.</p>
+            <p>
+               <hi>Of a veſſel which containes three ſeveral kinds of liquor, all put in at one bung-hole, and drawn out at one tap, ſeverally without mixture.</hi>
+            </p>
+            <p>The Veſſel is thus made, it muſt be divided into three Sells for to contain the three liquors, which admit to be Sack, Claret, and White-wine: now in the bung-hole there is an engine with three pipes, each extending to its proper Sell; into which there is put a broach or funnel, pierced in three places, in ſuch ſort that placing one of the holes right againſt the pipe which anſwereth unto him, the other two pipes are ſtopped; then when it is full, turne the funnel, and then the former hole will be ſtopped and another opend, to caſt in other wine without mixing it with others.</p>
+            <p>How to draw out alſo without mixture: At the bottome of the Veſſel there muſt be placed a Pipe or Broach, which may have three Pipes, and a cock pierced with three holes, ſo artificially done, that turning the Cock, the hole which an<g ref="char:EOLhyphen"/>ſwereth to ſuch of the Pipes that is placed at the bottome, may iſſue forth ſuch Wine as belongeth to that Pipe; and turning the cock to another Pipe, the former hole will be ſtopped: and ſo there will iſſue another kinde of Wine, without any mixture: but the cock may be ſo ordered, that there may come out by it two Wines toge<g ref="char:EOLhyphen"/>ther, or all three kinds at once: But it ſeems beſt when that in one Veſſel and at one cock, a man may draw ſeveral kinds of Wine which he plea<g ref="char:EOLhyphen"/>ſeth to drink.</p>
+            <pb facs="tcp:207487:7"/>
+            <p>
+               <hi>How to find at any time which way the winde is in ones chamber, without going abroad.</hi>
+            </p>
+            <p>Upon the planching or floor of a Chamber, Parlor, or Hall, that you intend to have this de<g ref="char:EOLhyphen"/>vice, let there come down from the top of the houſe, a hollow poſt, in which place an Iron-rod, that it aſcend above the houſe ten or ſix foot, with a Vane or a Scouchen at it, to ſhew the winds without: and at the lower end of this rod of Iron place a dart which may by the moving of the Vane with the winde without, turne this dart which is within: about which upon the plaiſter muſt be deſcribed a circle divided into the 32 points of the Mariners compaſſe, pointed and di<g ref="char:EOLhyphen"/>ſtinguiſhed to that end; then may it be marked by placing a compaſſe by it; for having noted the North point, the Eaſt, &amp;c. it is eaſie to note out all the reſt of the points: and ſo at any time comming into this room, you have nothing to doe but to look up to the dart, which will point you out what way the winde bloweth at that inſtant.</p>
+            <p>
+               <hi>How to roſte a Capon, carried in a budget at a Saddle bow, in the ſpace of riding five or ſix miles.</hi>
+            </p>
+            <p>Having made it ready and larded it, ſtuffe it with Butter, then heat a piece of Steel which may be formed round according to the length of the capon, and big enough to fill the belly of it; and then ſtop it with butter, then wrap it up well, and incloſe it in a box in the budget, and you ſhall have your deſire. It is ſaid that <hi>Count Mansfield</hi> ſerved himſelf with no others, but ſuch as is made ready in this kinde; for that it looſeth none of its ſubſtance, and it is dreſſed very equally.</p>
+            <pb facs="tcp:207487:8"/>
+            <p>
+               <hi>How to make two Marmouſets, one of which ſhall light a Candle, and the ether put it out.</hi>
+            </p>
+            <p>Upon the ſide of a Wall, make the figure of a Marmouſet, or other animal or forme, and right againſt it on the other Wall make another; in the mouth of each put a quill or pipe ſo artificially that it be not perceived: in one of which place Saltpeter very fine, and dry, and pulveriſed, and at the end ſet a little match of paper; in the other place Sulpher beaten ſmall; then holding a can<g ref="char:EOLhyphen"/>dle lighted in your hand, ſay to one of theſe Ima<g ref="char:EOLhyphen"/>ges by way of command, blow out the candle; then lighting the paper with the candle, the Salt<g ref="char:EOLhyphen"/>peter will blow out the candle immediately; and going to the other Image (before the match of the candle be out) touch the Sulpher with it and ſay light the candle, &amp; it will immediately be lighted, which will cauſe an admiration to theſe which ſee the action, if it be done with a ſecret dexterity.</p>
+            <p>
+               <hi>A Cure for Cornes.</hi>
+            </p>
+            <p>Steep your feet (the ſpace of a quartar of an houre, going to bedward) in warme water wher<g ref="char:EOLhyphen"/>in hath boiled three of four ſorts of ſweet ſmel<g ref="char:EOLhyphen"/>ling Herbs, as Roſemary, Time, Hiſſop, Spear<g ref="char:EOLhyphen"/>mint, or the like, then pare a little of the out<g ref="char:EOLhyphen"/>ward hardeſt part of your Cornes, having a care you cut not to the quick, then apply the bredth of your Corne of this plaiſter upon each Corne, and as much fine Leather upon that as will keep it from ſticking to your ſtockings, continuing and renewing this plaiſter as need requires for a whole week, it will ſoften the very roots of your Corns, ſo that you may eaſily pick them out with the point of a penknife.</p>
+            <pb facs="tcp:207487:8"/>
+            <p>
+               <hi>An infallible way to take away Haire without cutting or ſhaving.</hi>
+            </p>
+            <p>Take unſlaked Lime, ſteep it in a little water, then take two parts of the ſaid Lime and one part of Opimentum, knead them together in forme of Paſte, apply of this Paſte to the place where you would have the haire to fall until it be ſomewhat dry and no longer, then take it off, and the haire will come with it very eaſily; laſtly, waſh the place with a little Roſe-water, which will both corroberate the place, and take away ill ſmell.</p>
+            <p>
+               <hi>A new delectable ſure and eaſie way to catch Ravens, and many other ſort of fowle alive.</hi>
+            </p>
+            <p>Spread Birdlime or Pitch upon brown paper ſomewhat thin, then make this paper up in forme of little funnel diſhes, a little bigger then a Ra<g ref="char:EOLhyphen"/>vens head or any fowles head that you would catch therewith, let not the bottome or ſmall end thereof be pierced quite through, then make lit<g ref="char:EOLhyphen"/>tle holes in the ground that ſuch fowle frequents which will ſerve to prop up the ſaid funnel; put therein little bits of any raw fleſh, or what elſe you finde ſuch fowle as you would catch moſt greedy after, and you ſhall ſee rare ſport, for theſe paper funnels will ſtick to their heads and blind them, they will flye to and fro and fall at the firſt thing they hit againſt ordinary; then if you be but nimble enough you may take them up alive.</p>
+            <p>
+               <hi>The Counteſſe of</hi> Kents <hi>cure for a ſtinking breath.</hi>
+            </p>
+            <p>The Counteſſe of <hi>Kents</hi> powder good againſt all malignant and peſtilent diſeaſes, French Pox, ſmall Pox, Meaſles, Plague, peſtilent malignant or Scarlet Feavers, good againſt melancholly de<g ref="char:EOLhyphen"/>jection
+<pb facs="tcp:207487:9"/>of ſpirits, twenty or thirty graines there<g ref="char:EOLhyphen"/>of being exhibited in a little warm Sack or Harts horne Jelly to a man, and half as much or twelve graines to a childe.</p>
+            <p>Take of the magiſtery of Pearls, of Crabs eyes prepared, of white Amber prepared, Harts horne, magiſtery of Corral, of <hi>Lapis contra yerva,</hi> of each a like quantity, to theſe powders infuſed, put of the black tips of the great claws of Crabs to the full weight of the reſt, beat all theſe into very fine powder, and ſearce them through a fine Lawn Searce, to every ounce of this powder adde a dram of true <hi>Oriental Bezar,</hi> make all theſe up in<g ref="char:EOLhyphen"/>to a lump or maſſe, with the Jelly of Harts horn, and colour it with Saffron, putting thereto a ſcruple of Amber greece, and a little Musk finely powdered, and dry them (made up into ſmall Trochiſes) neither by fire nor Sun, but by a dry Ayre: you may give to a man twenty granes of it, and to a childe twelve granes.</p>
+            <p>
+               <hi>Lac virgineum.</hi>
+            </p>
+            <p>Take of Allum four ounces, boil it in a quart of Spring-water, to the third part: afterwards take of <hi>Litharge</hi> beaten into fine powder halfe a pound, White-wine vinegar a pint and a halfe, boile it to a pint, ſtraine both the waters, then mix them together, and ſtirre them about till they are white. It takes away pimples, redneſſe, and ſun-burning, the face being waſhed with it.</p>
+            <p>I have ſome things extraordinary, which I can<g ref="char:EOLhyphen"/>not communicate to any but them that have need of my help, and will make uſe of me. What I have writ here, is very good and neceſſary; yet
+<pb facs="tcp:207487:9"/>know my manual operation excels them beyond proportion, in which I preſume to be as expert in as any man in Europe whatſoever he be; as the approbation of ſome of the beſt Doctors of this age ſhall juſtifie if need requires.</p>
+            <p>I glory not in knowing or doing much, but in doing well that little which I undertake, and the things which I undertake are theſe:</p>
+            <p>Firſt, I draw out hollow Teeth or roots though never ſo ſhort, with wonderful dexterity, facility, and eaſe.</p>
+            <p>I make even ſmooth and plain, Teeth that are extravagant or ſharper, longer, or ruggeder then the reſt.</p>
+            <p>Hollow Teeth that for ſome reaſon you would not have drawn, as the falling in of the check, or an invincible apprehenſion or fear, or the like, I can ſtop them ſo that they ſhall neither ake, pu<g ref="char:EOLhyphen"/>trifie, nor ſmel ill.</p>
+            <p>I have the beſt ſecret in the world, abſolutely and infallibly, to make Teeth moſt perfectly white and clean, though never ſo black or ruſty.</p>
+            <p>Foreteeth that are looſe, I can faſten very well in leſſe then halfe an hour.</p>
+            <p>I can ſet in Artificial Teeth ſo well, that none can poſſibly know them from natural ones.</p>
+            <p>Finally, I cannot chooſe but convince their ig<g ref="char:EOLhyphen"/>norance, that are againſt drawing hollow Teeth or roots; their common fooliſh objection is, that I doe it more for my own profit then the Patients eaſe. I ſay they may as well object the ſame a<g ref="char:EOLhyphen"/>gainſt all other Arts, Sciences, or Trades in the world; for it is evident and cleare, that the draw<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:207487:10"/>of Teeth from others is as neceſſary for thein; as the profit is for me; by reaſon that all the Art in the world cannot make a periſhed Tooth ſound againe, nor hinder it from infecting the next adjoyning teeth in time. Beſides hollow teeth breed often a ſtinking breath, a canker in the mouth, and other diſeaſes in the body, and their intolerable aking is able to make a body fall into a dangerous Feavours; all which incon<g ref="char:EOLhyphen"/>veniences may be ſhunned by having ſuch teeth and roots neatly drawn. Laſtly, if it be true that it is good to take the broken from the whole, or that one ſcabbed ſheep may ſpoil a whole flock, or that it is good and neceſſary to repair imper<g ref="char:EOLhyphen"/>fections of nature with Art, then all that I have ſaid herein is true, and ſo I reſt fully ſatisfied.</p>
+            <p>
+               <hi>To conclude, as there is no man free from the aſper<g ref="char:EOLhyphen"/>ſions and ſlanders of envious tongues, ſo I ſhall thinke my ſelfe ſufficiently vindicated that the diſcreeter ſort will ſuſpend their judgement at the firſt view until they heare what others will ſay that have been under my hands, for I deſire no other praiſe ſave what they can juſtly give me: and though ſome out of ignorance or malice, or both, cannot diſtinguiſh between an Operator and a cheating Mountebanke, yet none can deny but that in all vocations there are ſome honeſt men, as well as knaves; both which I heartily wiſh may proſper, and fare as they deſerve, and no otherwiſe.</hi>
+            </p>
+            <p>I live upon <hi>London-bride,</hi> next door to the ſign of the <hi>Angel,</hi> and am at home all the morning till eleven a clock, and from three in the afternoon til night.</p>
+            <p>All Souldiers troubled with the Tooth-ache I will eaſe in courteſie, the poor for Gods ſake.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207487:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
